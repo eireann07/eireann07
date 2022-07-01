@@ -8,7 +8,7 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :star: **My current favorite technology** is React (components are brilliant, imo). My first React app is a simplified Instagram clone for cats -- Catstagram! I've deployed it [here](https://catstagram-navy.vercel.app/) using Vercel hosting. I'm currently updating it to make it more responsive for mobile interfaces.  
 
-- :computer: **I'm currently working on** connecting databases to my [to-do app](https://github.com/eireann07/todolist-v1) and my [blog](https://github.com/eireann07/blog-v1) so that I can deploy them full-functioning.
+- :computer: **I'm currently working on** connecting databases to my [to-do app](https://github.com/eireann07/todolist-v1) and my [blog](https://github.com/eireann07/blog-v1) so that I can deploy them fully-functioning.
 
 - :seedling: **I'm currently learning** some web3 stuff just for kicks and giggles.
 
