@@ -4,7 +4,7 @@ I'm Erin! (she/her/hers)
 
 I'm currently an (almost-graduated!) full-stack developer student in The London App Brewery's complete web development bootcamp. I've been dabbling in coding since I first started playing around with Python when I was a university student, but seriously started writing code in January of 2022. 
 
-- :beginner: **My very first program** was a basic Python magic-8 ball program (it's not here, if you're looking for it...but I promise it's a real thing).
+- :beginner: **My very first program** was a basic Python magic-8 ball program (it's not here, if you're looking for it...but I promise it's a real thing). I wrote my Python fidget spinner as my second project-of-note!
 
 - :star: **My current favorite technology** is React (components are brilliant, imo). My first React app is a simplified Instagram clone for cats -- Catstagram! I've deployed it [here](https://catstagram-navy.vercel.app/) using Vercel hosting. I'm currently updating it to make it more responsive for mobile interfaces.  
 
