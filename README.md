@@ -2,7 +2,7 @@
 
 I'm Erin! (she/her/hers)
 
-I'm currently an (almost-graduated!) full-stack developer student in The London App Brewery's complete web development bootcamp. I've been dabbling in coding since I first started playing around with Python when I was a university student, but seriously started writing code in January of 2022. 
+I'm currently an (almost-graduated!) full-stack developer student in The London App Brewery's complete web development bootcamp. I've been dabbling in coding since I first started playing around with Python when I was a university student, but seriously started writing code in February of 2022. 
 
 - :beginner: **My very first program** was a basic Python magic-8 ball program (it's not here, if you're looking for it...but I promise it's a real thing). I wrote my Python fidget spinner as my second project-of-note!
 
