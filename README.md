@@ -10,7 +10,7 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :trophy: **My most-recent completed project** is my [to-do app](https://enigmatic-peak-88936.herokuapp.com/) that I just deployed to Heroku. It's got an EJS front-end, Node back-end, and uses a Mongo Atlas database.
 
-- :computer: **I'm currently working on** connecting databases to my [to-do app](https://github.com/eireann07/todolist-v1) and my [blog](https://github.com/eireann07/blog-v1) so that I can deploy them fully-functioning.
+- :computer: **I'm currently working on** connecting databases to my [blog](https://github.com/eireann07/blog-v1) so that I can deploy them fully-functioning.
 
 - :seedling: **I'm currently learning** some web3 stuff just for kicks and giggles.
 
