@@ -10,7 +10,7 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :trophy: **My most-recent completed projects** are my NEWLY COMPLETE [blog](https://hidden-atoll-31231.herokuapp.com/) and (my mother's favorite thing I've made) my [to-do app](https://enigmatic-peak-88936.herokuapp.com/) both of which are deployed to Heroku. Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. I've also just built my very first RESTful API in JavaScript with Studio 3T for MongoDB and Postman.
 
-- :computer: **I'm currently working on** building my second final project: another React app! I'm very excited to get back into React. 
+- :computer: **I'm currently working on** building a Whisper App clone to practice authentication methods. 
 
 - :seedling: **I'm currently learning** some web3 stuff just for kicks and giggles.
 
