@@ -8,7 +8,7 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :star: **My current favorite technology** is React (components are brilliant, imo). My first React app is a simplified Instagram clone for cats -- Catstagram! I've deployed it [here](https://catstagram-navy.vercel.app/) using Vercel hosting. I'm currently updating it to make it more responsive for mobile interfaces.  
 
-- :trophy: **My most-recent completed projects** are my NEWLY COMPLETE [blog[(https://hidden-atoll-31231.herokuapp.com/) and (my mother's favorite thing I've made) my [to-do app](https://enigmatic-peak-88936.herokuapp.com/) both of which are deployed to Heroku. Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. I've also just built my very first RESTful API with Studio 3T for MongoDB and Postman.
+- :trophy: **My most-recent completed projects** are my NEWLY COMPLETE [blog](https://hidden-atoll-31231.herokuapp.com/) and (my mother's favorite thing I've made) my [to-do app](https://enigmatic-peak-88936.herokuapp.com/) both of which are deployed to Heroku. Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. I've also just built my very first RESTful API with Studio 3T for MongoDB and Postman.
 
 - :computer: **I'm currently working on** building my second final project: another React app! I'm very excited to get back into React. 
 
