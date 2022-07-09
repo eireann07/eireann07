@@ -8,9 +8,9 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :star: **My current favorite technology** is React (components are brilliant, imo). My first React app is a simplified Instagram clone for cats -- Catstagram! I've deployed it [here](https://catstagram-navy.vercel.app/) using Vercel hosting. I'm currently updating it to make it more responsive for mobile interfaces.  
 
-- :trophy: **My most-recent completed projects** are my NEWLY COMPLETE [blog](https://hidden-atoll-31231.herokuapp.com/) and (my mother's favorite thing I've made) my [to-do app](https://enigmatic-peak-88936.herokuapp.com/) both of which are deployed to Heroku. Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. I've also just built my very first RESTful API in JavaScript with Studio 3T for MongoDB and Postman.
+- :trophy: **My most-recent completed projects** are my [blog](https://hidden-atoll-31231.herokuapp.com/) and my [Whisper App clone](https://quiet-wave-88262.herokuapp.com/). Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. My Whisper clone was created specifically to practice with different authentication tools, so it also has GoogleOAuth set up! I've also just built my first RESTful API in JavaScript with Studio 3T for MongoDB and Postman.
 
-- :computer: **I'm currently working on** building a Whisper App clone to practice authentication methods. 
+- :computer: **I'm currently working on** building my final project for my bootcamp! It's another React app, which I'm very excited about. 
 
 - :seedling: **I'm currently learning** some web3 stuff just for kicks and giggles.
 
