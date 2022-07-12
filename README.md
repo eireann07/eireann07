@@ -6,9 +6,9 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :beginner: **My very first program** was a basic Python magic-8 ball program (it's not here, if you're looking for it...but I promise it's a real thing). I wrote my Python fidget spinner as my second project-of-note!
 
-- :star: **My current favorite technology** is React (components are brilliant, imo). My first React app is a simplified Instagram clone for cats -- Catstagram! I've deployed it [here](https://catstagram-navy.vercel.app/) using Vercel hosting. I'm currently updating it to make it more responsive for mobile interfaces.  
+- :star: **My current favorite technology** is React (components are brilliant, imo). My most-recent React app is a Google Keep clone -- Take Note! I've deployed it [here](https://take-note-app.vercel.app/) using Vercel hosting. I'm currently updating it to add a back-end so it will store created notes.  
 
-- :trophy: **My most-recent completed projects** are my [blog](https://hidden-atoll-31231.herokuapp.com/) and my [Whisper App clone](https://quiet-wave-88262.herokuapp.com/). Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. My Whisper clone was created specifically to practice with different authentication tools, so it also has GoogleOAuth set up! I've also just built my first RESTful API in JavaScript with Studio 3T for MongoDB and Postman.
+- :trophy: **Some of my other recently-completed projects** are my [blog](https://hidden-atoll-31231.herokuapp.com/) and my [Whisper App clone](https://quiet-wave-88262.herokuapp.com/). Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. My Whisper clone was created specifically to practice with different authentication tools, so it also has GoogleOAuth set up! I've also just built my first RESTful API in JavaScript with Studio 3T for MongoDB and Postman.
 
 - :computer: **I'm currently working on** building my final project for my bootcamp! It's another React app, which I'm very excited about. 
 
