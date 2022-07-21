@@ -10,7 +10,7 @@ I'm currently an (almost-graduated!) full-stack developer student in The London 
 
 - :trophy: **Some of my other recently-completed projects** are my [blog](https://hidden-atoll-31231.herokuapp.com/) and my [Whisper App clone](https://quiet-wave-88262.herokuapp.com/). Both have an EJS/JS front-end, Node  and Express back-end, and use MongoDB databases. My Whisper clone was created specifically to practice with different authentication tools, so it also has GoogleOAuth set up! I've also just built my first RESTful API in JavaScript with Studio 3T for MongoDB and Postman.
 
-- :computer: **I'm currently working on** building my final project for my bootcamp! It's another React app, which I'm very excited about. 
+- :computer: **I'm currently working on** building the back-end to my Take Note app, and I've just started wireframing a full-stack React app about wine (stay tuned for more!). 
 
 - :seedling: **I'm currently learning** some web3 stuff just for kicks and giggles.
 
